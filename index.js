@@ -1,3 +1,3 @@
 console.error("HALP!")
-console.warn("Please stop it")
-console.error("Somthing Wrong")
+console.log("Please stop it")
+console.warn("Somthing Wrong")
